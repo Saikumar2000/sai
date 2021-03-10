@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="STUDENT">7d70c4712f722010fc16f3ecf699b66e</application>
+        <filter/>
+        <name>STUDENTs</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_594711_sru_cante.student_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-10 06:44:50</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>7d70c4712f722010fc16f3ecf699b671</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>STUDENTs</sys_name>
+        <sys_package display_value="SRU CANTEEN" source="x_594711_sru_cante">6b68d31d2fb22010fc16f3ecf699b68c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SRU CANTEEN">6b68d31d2fb22010fc16f3ecf699b68c</sys_scope>
+        <sys_update_name>sys_ui_module_7d70c4712f722010fc16f3ecf699b671</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-10 06:44:50</sys_updated_on>
+        <table>x_594711_sru_cante_student</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>

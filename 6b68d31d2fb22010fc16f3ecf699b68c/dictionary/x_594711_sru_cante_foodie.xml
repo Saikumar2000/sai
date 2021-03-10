@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="FOODIE" max_length="40" name="x_594711_sru_cante_foodie" sizeclass="2" type="collection">
+        <element label="COST OF FOOD ITEM" max_length="40" name="cost_of_food_item" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="NAME OF FOOD ITEM" max_length="40" name="name_of_food_item" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="PHONE NUMBER" max_length="40" name="phone_number" type="phone_number_e164"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>
